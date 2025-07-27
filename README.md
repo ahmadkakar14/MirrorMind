@@ -5,6 +5,20 @@
 MirrorMind is a creative, emotion-reactive web experience that turns your thoughts into visuals, sound, and art. Speak or type your inner feelings — and watch as a digital canvas comes alive with your mood. 
 
 Whether you're joyful, angry, calm, or lost in a storm of thoughts, MirrorMind transforms those emotions into ambient visuals and soundscapes — a reflection not of your face, but your state of mind.
+Features:
+You type your thoughts → the program analyzes the mood using simple keyword detection.
+
+It then creates a dynamic, animated visual based on your emotional state:
+
+Joy = bright, playful colors
+
+Sad = cool, soft tones
+
+Anger = red, intense bursts
+
+Calm = smooth, tranquil colors
+
+Neutral = muted grays
 
 ---
 
